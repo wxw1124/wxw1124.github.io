@@ -53,7 +53,6 @@ for (let i = 0; i < json.length; i++) {
         href = json[i].href
     }
 
-    str = str + `<div class="seat"><a href="` + href + '">' + json[i].name + `</a></div>`
 
     str = str + `<div class="seat">
                     <a href="${href}">
