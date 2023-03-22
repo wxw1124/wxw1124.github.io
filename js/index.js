@@ -1,7 +1,7 @@
 
 const json = [
     { id: 1, name: "张洪铭", href: "" },
-    { id: 2, name: "庄子军", href: "" },
+    { id: 2, name: "庄子君", href: "" },
     { id: 3, name: "黄佳佳", href: "" },
     { id: 4, name: "黄赫铭", href: "" },
     { id: 5, name: "刘浩彬", href: "" },
@@ -40,7 +40,7 @@ const json = [
     { id: 38, name: "朱声宁", href: "https://zhuzhunb88.github.io" },
     { id: 39, name: "敖琪涛", href: "" },
     { id: 40, name: "温炫威", href: "" },
-    { id: 41, name: "斯长辉", href: "" },
+    { id: 41, name: "靳长辉", href: "" },
     { id: 42, name: "陈锐锋", href: "" },
 ]
 
