@@ -1,0 +1,96 @@
+.div1 {
+    display: flex;
+    justify-content: center;
+}
+
+.wordpad {
+    margin-top: 2rem;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(252, 252, 252);
+    border-radius: 10px;
+    overflow: auto;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.enroll {
+    text-decoration: none;
+    color: #fff;
+    width: 150px;
+    height: 60px;
+    background-color: #1D1D22;
+    border: 1px solid rgb(232, 156, 16);
+    display: block;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 10px;
+    font-size: 21px;
+    transition: all .3s;
+}
+
+.enroll:hover {
+    background-color: #FDA703;
+    color: #1D1D22;
+}
+
+.login {
+    text-decoration: none;
+    color: #fff;
+    width: 150px;
+    height: 60px;
+    background-color: #1D1D22;
+    border: 1px solid rgb(232, 156, 16);
+    display: block;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 10px;
+    font-size: 21px;
+    transition: all .3s;
+}
+
+.login:hover {
+    background-color: #FDA703;
+    color: #1D1D22;
+}
+
+.resetting {
+    text-decoration: none;
+    color: #fff;
+    width: 150px;
+    height: 60px;
+    background-color: #4C4F5A;
+    /* border: 1px solid rgb(232, 156, 16); */
+    display: block;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 10px;
+    font-size: 21px;
+    transition: all .3s;
+}
+
+.resetting:hover {
+    background-color: #FDA703;
+    color: #1D1D22;
+}
+
+.publish {
+    text-decoration: none;
+    color: #fff;
+    width: 150px;
+    height: 60px;
+    background-color: #4C4F5A;
+    /* border: 1px solid rgb(232, 156, 16); */
+    display: block;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 10px;
+    font-size: 21px;
+    transition: all .3s;
+}
+
+.publish:hover{
+    background-color: #FDA703;
+    color: #1D1D22;
+}
